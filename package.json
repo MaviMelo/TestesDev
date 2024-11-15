@@ -1,0 +1,31 @@
+{
+  "name": "testesdev",
+  "version": "1.0.0",
+  "description": "Este projeto é um espaço de testes e experimentos simples de atividades acadêmicas, do curso de Tecnologias em Sistemas para Internet, do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaviMelo/TestesDev.git"
+  },
+  "keywords": [
+    "teste",
+    "experimento",
+    "código",
+    "estudo."
+  ],
+  "author": "Maviael Melo.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaviMelo/TestesDev/issues"
+  },
+  "homepage": "https://github.com/MaviMelo/TestesDev#readme",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

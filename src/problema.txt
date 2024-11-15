@@ -1,0 +1,17 @@
+Atividade 02 - Desafio Paisagem com CSS
+
+Sua tarefa é usar HTML e CSS para construir uma paisagem de acordo com um tema de sua escolha. Alguns exemplos de temas são:  fazenda, praia, aquário ou espaço.
+
+Requisitos:
+
+    Escolha do Tema:Defina um tema para sua paisagem e construa elementos relacionados a ele.
+    Uso de Comandos CSS: Utilize propriedades de CSS como background, Gradientes (linear-gradient ou radial-gradient), Bordas (Aplique estilos variados e bordas arredondadas) 
+    Animações: GIFs Animadose e @keyframes
+    Transformações e Transições: Use transform e transition para mudanças suaves de estilo e posição.
+
+Instruções de Envio:
+
+    Nomeie seus arquivos: HTML: [SEU_NOME].html e CSS: [SEU_NOME].css
+    Compacte os arquivos em um ZIP e envie-o.
+
+Foque em explorar os comandos de CSS para criar uma paisagem visualmente interessante.
