@@ -1,0 +1,16 @@
+
+.porDoSol {
+    background: linear-gradient(rgb(80, 141, 233),rgb(238, 255, 1));
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.gramado {
+    width: 107%;
+    height: 25%;
+    position: absolute;
+    background: radial-gradient(circle at 25% 8%, rgb(142, 216, 142), rgb(0, 49, 0));
+}
